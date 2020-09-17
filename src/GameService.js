@@ -1,7 +1,7 @@
 import axios from "axios";
 
-const BASE_URL = "http://localhost:3006";
-
+// const BASE_URL = "http://localhost:3006";
+const BASE_URL = " https://gamer-forums.herokuapp.com";
 const getGames = () => {
   return axios.get(`${BASE_URL}/api/games`);
 };
