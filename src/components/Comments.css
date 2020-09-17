@@ -1,0 +1,21 @@
+.comments {
+  border: solid black;
+  margin: 5px;
+  background-color: white;
+}
+.buttons {
+  background-color: rgb(39, 161, 237);
+  color: black;
+  border-radius: 5px;
+}
+
+.name {
+  text-align: center;
+
+  margin: 0;
+  font-size: 35px;
+}
+.message {
+  word-wrap: break-word;
+  text-align: center;
+}
